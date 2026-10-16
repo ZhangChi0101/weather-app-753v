@@ -1,0 +1,6 @@
+﻿$ curl.exe -sS https://api.github.com/repos/ZhangChi0101/mcino-Introduction-to-Git-and-GitHub/branches
+name                     protected  status
+-----------------------  ---------  ------
+bug-fix-revert            False      present
+bug-fix-typo              False      present
+main                      False      present

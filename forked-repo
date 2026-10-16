@@ -1,0 +1,6 @@
+﻿$ curl.exe -sS https://api.github.com/repos/ZhangChi0101/mcino-Introduction-to-Git-and-GitHub
+name: mcino-Introduction-to-Git-and-GitHub
+full_name: ZhangChi0101/mcino-Introduction-to-Git-and-GitHub
+fork: True
+parent: ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+html_url: https://github.com/ZhangChi0101/mcino-Introduction-to-Git-and-GitHub

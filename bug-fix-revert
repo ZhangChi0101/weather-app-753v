@@ -1,0 +1,8 @@
+﻿$ curl.exe -sS https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12465
+state: closed
+html_url: https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/12465
+title: Revert simple interest formula typo
+head_label: ZhangChi0101:bug-fix-revert
+head_repo: ZhangChi0101/mcino-Introduction-to-Git-and-GitHub
+base_repo: ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+mergeable: True
